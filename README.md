@@ -1,6 +1,6 @@
 # 📊 Estatística com Python 🐍
 
-<img src="imagens/" align="right">
+<img src="imagens/topo.jpg">
 
 Aprendizado/Trinamento de Estatística com a Linguagem **Python**
 

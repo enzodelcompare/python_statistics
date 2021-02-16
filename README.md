@@ -6,7 +6,7 @@ Aprendizado/Trinamento de Estatística com a Linguagem **Python**
 
 <br>
 
-**I: População e Amostra**
+**População e Amostra**
 
 * O que são População e Amostra? [TEORIA]
 * Amostra Aleatória Simples

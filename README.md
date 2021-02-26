@@ -14,8 +14,7 @@
 
 # Estatística com Python
 
-
-Aprendizado/Trinamento de Estatística com a Linguagem **Python**
+### Aprendizado/Trinamento de Estatística com a Linguagem **Python**
 
 <br>
 
@@ -26,6 +25,12 @@ Aprendizado/Trinamento de Estatística com a Linguagem **Python**
 
 <br>
 
-**LINKEDIN**: [**Enzo Delcompare**](https://www.linkedin.com/in/enzodelcompare/)
-
-**MEU SITE**: [enzodelcompare.github.io](https://enzodelcompare.github.io/)
+<p>
+  <a href="https://www.linkedin.com/in/enzodelcompare/">
+    <img src="https://img.shields.io/badge/linkedin-enzodelcompare-blue">
+  </a>
+  
+  <a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
+    <img src="https://img.shields.io/badge/curr%C3%ADculo-enzodelcompare-red">
+  </a>
+</p>

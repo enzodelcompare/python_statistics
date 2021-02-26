@@ -14,8 +14,6 @@
 
 # Estatística com Python
 
-### Aprendizado/Trinamento de Estatística com a Linguagem **Python**
-
 <br>
 
 **População e Amostra**

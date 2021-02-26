@@ -25,8 +25,8 @@
 
 **População e Amostra**
 
-* **[Teoria]** O que são População e Amostra?
-* [**[Notebook]**](notebooks/estatistica_com_python.ipynb) Amostra Aleatória Simples
+* O que são População e Amostra? **[Teoria]** 
+* Amostra Aleatória Simples [**[Notebook]**](notebooks/estatistica_com_python.ipynb)
 
 <br>
 

@@ -20,7 +20,7 @@
 
 **População e Amostra**
 
-* O que são População e Amostra? [TEORIA]
+* Teoria: O que são População e Amostra?
 * Amostra Aleatória Simples
 
 <br>
@@ -32,5 +32,15 @@
   
   <a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
     <img src="https://img.shields.io/badge/curr%C3%ADculo-enzodelcompare-red">
+  </a>
+</p>
+
+#
+
+<br>
+
+<p>
+  <a href="https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/">
+    <img src="https://img.shields.io/badge/curso-jonesgranatyr-green">
   </a>
 </p>
